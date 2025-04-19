@@ -5,4 +5,7 @@
 - 👯 I’m looking to collaborate on startups
 - 💬 Ask me anything
 - 📫 How to reach me: stephturing33@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm one of the the few software builders that doesn't drink coffee
+
+
+youtube.com/@YEMELINK2000?sub_confirmation=1
