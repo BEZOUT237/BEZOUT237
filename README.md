@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stephane+YEMELI;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stephane+YEMELI;)](https://git.io/typing-svg
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Creator;computer+science+engineering+student;software+engineer;2+years+fullstack+developer)](https://git.io/typing-svg)
 
