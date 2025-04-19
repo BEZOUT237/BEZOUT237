@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stephane+YEMELI;)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Creator;computer+science+engineering+student;software+engineer;2+years+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?line=Stephane+YEMELI;Creator;computer+science+engineering+student;software+engineer;2+years+fullstack+developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on YEMELINK,  a tech media and NetWorker a job marketplace 
 - 🌱 I’m currently learning cross plateform mobile dev 
